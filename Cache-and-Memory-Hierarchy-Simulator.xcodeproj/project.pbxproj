@@ -26,6 +26,7 @@
 		8D755556217BA21D00D996DF /* gcc.output0.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = gcc.output0.txt; sourceTree = "<group>"; };
 		8D755557217BA24F00D996DF /* example_trace.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = example_trace.txt; sourceTree = "<group>"; };
 		8D755558217CEC5100D996DF /* gcc.output4.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = gcc.output4.txt; sourceTree = "<group>"; };
+		8D755559217D19CB00D996DF /* gcc.output6.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = gcc.output6.txt; sourceTree = "<group>"; };
 		8D75FDA1215C076700380495 /* Cache-and-Memory-Hierarchy-Simulator */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Cache-and-Memory-Hierarchy-Simulator"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D75FDAC215C08FE00380495 /* sim_cache.cc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = sim_cache.cc; sourceTree = "<group>"; };
 		8D75FDAD215C08FE00380495 /* sim_cache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = sim_cache.h; sourceTree = "<group>"; };
@@ -65,6 +66,7 @@
 			children = (
 				8D75FDAC215C08FE00380495 /* sim_cache.cc */,
 				8D75FDAD215C08FE00380495 /* sim_cache.h */,
+				8D755559217D19CB00D996DF /* gcc.output6.txt */,
 				8D755556217BA21D00D996DF /* gcc.output0.txt */,
 				8D755558217CEC5100D996DF /* gcc.output4.txt */,
 				8D755557217BA24F00D996DF /* example_trace.txt */,
